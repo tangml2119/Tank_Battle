@@ -42,7 +42,7 @@ int  main()
 
 	map_show();
 
-	system("pause");
+	
 	return 0;
 }
 
